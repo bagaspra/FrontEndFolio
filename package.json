@@ -15,7 +15,9 @@
     "@types/react": "18.2.20",
     "@types/react-dom": "18.2.7",
     "autoprefixer": "10.4.15",
+    "axios": "^1.4.0",
     "cloudinary": "^1.40.0",
+    "encoding": "^0.1.13",
     "graphql-request": "^6.1.0",
     "jsonwebtoken": "^9.0.1",
     "next": "13.4.18",
@@ -27,6 +29,7 @@
     "typescript": "5.1.6"
   },
   "devDependencies": {
-    "@grafbase/sdk": "^0.5.1"
+    "@grafbase/sdk": "^0.5.1",
+    "find-unused-exports": "^5.0.0"
   }
 }
